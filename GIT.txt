@@ -1,0 +1,29 @@
+COMANDOS PARA GIT
+
+
+* git init  (inicializar en carpeta de trabajo) 
+IMPORTANTE!!!!! para trabajar de manera ordenada y no tener problemas.
+Crea un repositorio vacio para empezar a trabajar con archivos,
+
+* git status  (para saber que archivos estan sin seguimiento)
+
+* git add  "nombre del archivo" (agrega los archivos dentro del repositorio para poder darle seguimiento)
+
+GIT NO SIGUE LAS CARPETAS VACIAS !!
+
+*git commit -m "mensaje"          (tiene que aclarar el cambio que realizaste)
+
+*git diff (sirve para ver las modificaciones desde el ultimo commit)
+
+
+           CONFIGURAR GIT            
+
+
+* git config --global user.email "ismael_ideme91@hotmail.com"
+
+* git config --global user.name "IsMaa"
+
+
+
+
+
